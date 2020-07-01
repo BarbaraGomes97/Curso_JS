@@ -1,2 +1,2 @@
-# Curso_JS
- Repositório para resolução de exercícios e atividades propostas pelo curso de Javascript
+# Curso de JavaScript
+ Repositório para resolução de diversos exercícios e atividades propostas pelo curso de Javascript
